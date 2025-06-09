@@ -1,4 +1,4 @@
-#include <iostream> //colocar comentário 
+#include <iostream> //pode colocar import std; utilizado para c++20
 //colocando um segundo comentário
 
 int main () {
