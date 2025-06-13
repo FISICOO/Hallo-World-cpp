@@ -8,6 +8,7 @@ int main () {
   // \n nova linha de comando
   //cout = character output stream
   // String de caracteres, 
+  //<< operador de saída
   
   return 0;
 }
