@@ -2,7 +2,7 @@
 //colocando um segundo comentário
 
 int main () {
-  // accessa a função main
+  // accessa a função int, de nome main
   std::cout << "hello, world!\n" << std::endl; 
   //std é uma Standard library onde se encontra o cout
   // \n nova linha de comando
