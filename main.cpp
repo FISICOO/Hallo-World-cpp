@@ -13,5 +13,6 @@ int main () {
   //<< operador de saída
   
   return 0;
+  //término da função main utilizado em UNIX e LINUX
 }
 // } fim do CORPO da função 
