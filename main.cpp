@@ -14,5 +14,6 @@ int main () {
   
   return 0;
   //término da função main utilizado em UNIX e LINUX
+  // também é um Statement
 }
 // } fim do CORPO da função 
