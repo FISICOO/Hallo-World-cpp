@@ -3,6 +3,8 @@
 
 int main () {
   // accessa o tipo de retorno int, de função de nome main
+  // ( ) lista de PARÂMETROS, neste caso está vazia
+  // { início do corpo da função
   std::cout << "hello, world!\n" << std::endl; 
   //std é uma Standard library onde se encontra o cout
   // \n nova linha de comando
@@ -12,3 +14,4 @@ int main () {
   
   return 0;
 }
+// } fim do CORPO da função 
